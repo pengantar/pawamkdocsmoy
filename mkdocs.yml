@@ -1,8 +1,8 @@
-site_name: "pawamoy's website"
+site_name: "Morgud's website"
 site_description: "Findings, thoughts, tutorials, work. Pieces of my mind!"
-site_url: "https://pawamoy.github.io/"
-repo_url: "https://github.com/pawamoy/website/"
-repo_name: "pawamoy/website"
+site_url: "https://morgud.com/"
+repo_url: "https://github.com/pengantar/pawamkdocsmoy"
+repo_name: "pengantar/pawamkdocsmoy"
 
 nav:
   - Home: index.md
@@ -146,10 +146,10 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pawamoy
+      link: /
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/pawamoy
+      link: /
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/timothée-mazzucotelli-0321607b/
+      link: /
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/paaawamoy
+      link: /
